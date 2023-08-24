@@ -1,4 +1,4 @@
-# LogisticRegression
+
 # Linear Regression From Scratch
 - step 1: initialize learning rate(lr) number of iterations(n_iters)(epochs), weights and bias 
 - step 2: Fit Function:
